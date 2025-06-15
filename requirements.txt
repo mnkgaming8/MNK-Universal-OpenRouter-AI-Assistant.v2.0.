@@ -1,0 +1,11 @@
+pvporcupine
+pyaudio
+vosk
+sounddevice
+pyttsx3
+SpeechRecognition
+requests
+pyautogui
+Pillow
+imapclient
+pycryptodome
