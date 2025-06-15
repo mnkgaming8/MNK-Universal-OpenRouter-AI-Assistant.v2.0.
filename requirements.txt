@@ -3,9 +3,10 @@ pyaudio
 vosk
 sounddevice
 pyttsx3
-SpeechRecognition
+speechrecognition
 requests
 pyautogui
-Pillow
+pillow
 imapclient
-pycryptodome
+smtplib
+python-dotenv
