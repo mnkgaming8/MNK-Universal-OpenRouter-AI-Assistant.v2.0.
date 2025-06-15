@@ -51,9 +51,28 @@ python mnk_assistant.py
 # ✅ You're Ready!
 Your MNK Universal OpenRouter AI Assistant is now fully functional. Speak "Jarvis" to activate it.
 
+### 🎯 Example Commands
+
+- "Jarvis, open notepad"
+
+- "Jarvis, take screenshot"
+
+- "Jarvis, read email"
+
+- "Jarvis, send email"
+
+- "Jarvis, translate to Urdu"
+
+- "Jarvis, shutdown"
+
+- General AI Chat: "Jarvis, tell me a joke"
+
 ---
 
 ### 👑 Author
 Mohsin’s Neural Keeper (MNK v2 PRO Edition).
 
 Developed by: Mohsin Ali
+
+### 📧 Contact
+Email: mnkgaming8@gmail.com
